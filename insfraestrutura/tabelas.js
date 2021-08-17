@@ -14,7 +14,7 @@ class Tabelas {
             if (erro) {
                 console.log(erro)
             } else {
-                console.log('Tabela criada com sucesso')
+                console.log('Tabela criada com sucesso-teste')
             }
         })
     }
