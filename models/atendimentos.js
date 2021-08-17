@@ -10,10 +10,7 @@ class Atendimento {
             } else {
                 console.log(resultados)
             }
-
-
         })
-
     }
 }
 
